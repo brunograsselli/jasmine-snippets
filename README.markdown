@@ -1,11 +1,11 @@
 # Jasmine Snippets
-Some vim snippets that helps to write jasmine specs.
+Some vim snippets for writing jasmine specs.
 
 # Installation
-Just clone the repository and make a symbolic link to your snippets path:
+Clone the repository and create a symbolic link to your snippets path:
 
-    git clone https://BrunoGrasselli@github.com/BrunoGrasselli/jasmine-snippets.git ~/your_projects_path/jasmine-snippets
-    ln -s ~/your_projects_path/jasmine-snippets/javascript-jasmine/ ~/.vim/snippets/javascript-jasmine
+    git clone https://brunograsselli@github.com/brunograsselli/jasmine-snippets.git ~/projects_path/jasmine-snippets
+    ln -s ~/projects_path/jasmine-snippets/javascript-jasmine/ ~/.vim/snippets/javascript-jasmine
 
 # Jasmine?
 "Jasmine is a behavior-driven development framework for testing your JavaScript code".
